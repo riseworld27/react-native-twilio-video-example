@@ -97,7 +97,7 @@ export default class Example extends Component {
     status: 'disconnected',
     participants: new Map(),
     videoTracks: new Map(),
-    token: ''
+    token: 'Twilio access token'
   }
 
   _onConnectButtonPress = async () => {

@@ -7,7 +7,10 @@
 
 - react-native-twilio-video-webrtc (1.0.2-1)
 
-- Twilio Video SDK iOS 3.2.5
+- Twilio Video SDK iOS (3.2.5)
+
+## Generating access token
+Get twilio access token [here](https://www.twilio.com/console/video/project/testing-tools) and replace with `token` variable in state
 
 ## Running the project
 
