@@ -1,5 +1,4 @@
-
-# React Native video chat app using Twilio
+# React Native video chat app using Twilio!
 
 ## Main technologies used
 
@@ -10,31 +9,37 @@
 - Twilio Video SDK iOS (3.2.5)
 
 ## Generating access token
+
 Get twilio access token [here](https://www.twilio.com/console/video/project/testing-tools) and replace with `token` variable in state
 
 ## Running the project
 
 - Clone this project
+
 ```
 git clone https://github.com/raiseworld7/react-native-twilio-video-example.git
 ```
 
 - Install dependencies
+
 ```
 yarn
 ```
 
 - Run packager
+
 ```
 yarn start
 ```
 
 - Run iOS
+
 ```
 npx react-native run-ios
 ```
 
 - Run Android
+
 ```
 npx react-native run-android
 ```
